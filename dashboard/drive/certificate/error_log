@@ -1,0 +1,4 @@
+[15-Feb-2020 22:14:36 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/kemenkum/badiklatkemenkumham.learningcenter.co.id/template/header.php on line 16
+[15-Feb-2020 22:14:36 Asia/Jakarta] PHP Notice:  Undefined index: type in /home/kemenkum/badiklatkemenkumham.learningcenter.co.id/dashboard/drive/certificate/verified.php on line 16
+[17-Feb-2020 15:13:23 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/kemenkum/badiklatkemenkumham.learningcenter.co.id/template/header.php on line 16
+[17-Feb-2020 15:13:23 Asia/Jakarta] PHP Notice:  Undefined index: type in /home/kemenkum/badiklatkemenkumham.learningcenter.co.id/dashboard/drive/certificate/verified.php on line 16

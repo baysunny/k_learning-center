@@ -1,0 +1,8 @@
+[22-Feb-2020 10:36:37 UTC] PHP Fatal error:  Uncaught Error: Class 'Lock' not found in /home/kemenkum/badiklatkemenkumham.learningcenter.co.id/authentication/LOCK.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/kemenkum/badiklatkemenkumham.learningcenter.co.id/authentication/LOCK.php on line 8
+[22-Feb-2020 10:36:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Lock' not found in /home/kemenkum/badiklatkemenkumham.learningcenter.co.id/authentication/LOCK.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/kemenkum/badiklatkemenkumham.learningcenter.co.id/authentication/LOCK.php on line 8
